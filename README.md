@@ -2,7 +2,7 @@
 
 A flower scene created with Python Turtle Graphics featuring layered petals, custom hex color gradients, leaves, and a starry night background.
 
-![Flower](flower_image/flower.png)
+![Flower](flower.png)
 
 ## Features
 
