@@ -24,7 +24,7 @@ A flower scene created with Python Turtle Graphics featuring layered petals, cus
 1. Clone the repository
 2. Run:
 
-```bash
+```
 python flower.py
 ```
 
@@ -32,7 +32,7 @@ python flower.py
 
 There's a few ways you could personalize your flower's petals, one of those is by using the color's name:
 
-```bash
+```
 (8, 120, "red", "light pink"),
 ```
 The other way, is by using Hex codes. This one i highly recommend as it gives you more freedom in choosing.
